@@ -6,7 +6,7 @@
 
     <div class="row clearfix" v-if="!isLoading">
       <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-        <div class="info-box bg-teal hover-zoom-effect">
+        <div class="info-box bg-orange hover-zoom-effect">
           <div class="icon">
             <i class="material-icons">contacts</i>
           </div>
