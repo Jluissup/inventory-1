@@ -57,15 +57,15 @@
 							</tr>
 							<tr>
 								<th>Categoria</th>
-								<th>Product</th>
+								<th>Producto</th>
 								<th>Comprobante</th>
 								<th>Fecha</th>
-								<th>Entry By</th>
-								<th>Buying Price</th>
-								<th>Selling Price</th>
-								<th>Stock Quantity</th>
-								<th>Sold Quantity</th>
-								<th>Current Quantity</th>
+								<th>Entrada por</th>
+								<th>Precio de compra</th>
+								<th>Precio de venta</th>
+								<th>Cantidad de existencias</th>
+								<th>Cantidad vendida</th>
+								<th>Cantidad actual</th>
 							</tr>
 						</thead>
 
