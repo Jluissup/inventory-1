@@ -38515,7 +38515,7 @@ var render = function() {
    !_vm.isLoading
      ? _c("div", { staticClass: "row clearfix" }, [
          _c("div", { staticClass: "col-lg-3 col-md-3 col-sm-6 col-xs-12" }, [
-           _c("div", { staticClass: "info-box bg-teal hover-zoom-effect" }, [
+           _c("div", { staticClass: "info-box bg-orange hover-zoom-effect" }, [
              _vm._m(0),
              _vm._v(" "),
              _c("div", { staticClass: "content" }, [
