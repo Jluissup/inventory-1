@@ -4,7 +4,7 @@
 @section('title','Inventory | Stock-Report')
 
 
-@section('page-title','Stock Report')
+@section('page-title','Stock Reporte')
 
 
 @section('content')
