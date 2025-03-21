@@ -56,7 +56,7 @@
 
 							</tr>
 							<tr>
-								<th>Category</th>
+								<th>Categoria</th>
 								<th>Product</th>
 								<th>Comprobante</th>
 								<th>Fecha</th>
