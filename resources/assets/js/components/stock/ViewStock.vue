@@ -10,7 +10,7 @@
         <div class="col-md-4">
           <select class="form-control select2" data-live-serach="true" @change="getProduct()" v-model="category"
             v-select="category">
-            <option value>Todas la categorías</option>
+            <option value>Todas las categorías</option>
 
             <option v-for="(cat, index) in categorys" :value="cat.id">{{ cat.name }}</option>
           </select>
