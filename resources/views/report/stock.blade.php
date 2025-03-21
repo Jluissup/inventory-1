@@ -1,7 +1,7 @@
 @extends('include.master')
 
 
-@section('title','Inventory | Stock-Reporte')
+@section('title','Inventory | Stock-Report')
 
 
 @section('page-title','Stock Reporte')
@@ -18,7 +18,7 @@
 			<div class="header">
 				<h2>
 					
-					Stock Report
+					Stock Reporte
 					
 				</h2>
 
