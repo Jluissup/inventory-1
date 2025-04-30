@@ -4,7 +4,7 @@
 @section('title','Inventory | Stock-Report')
 
 
-@section('page-title','Stock Report')
+@section('page-title','Stock Reporte')
 
 
 @section('content')
@@ -18,7 +18,7 @@
 			<div class="header">
 				<h2>
 					
-					Stock Report
+					Stock Reporte
 					
 				</h2>
 
@@ -56,16 +56,16 @@
 
 							</tr>
 							<tr>
-								<th>Category</th>
-								<th>Product</th>
+								<th>Categoria</th>
+								<th>Producto</th>
 								<th>Comprobante</th>
 								<th>Fecha</th>
-								<th>Entry By</th>
-								<th>Buying Price</th>
-								<th>Selling Price</th>
-								<th>Stock Quantity</th>
-								<th>Sold Quantity</th>
-								<th>Current Quantity</th>
+								<th>Entrada por</th>
+								<th>Precio de compra</th>
+								<th>Precio de venta</th>
+								<th>Cantidad de existencias</th>
+								<th>Cantidad vendida</th>
+								<th>Cantidad actual</th>
 							</tr>
 						</thead>
 
