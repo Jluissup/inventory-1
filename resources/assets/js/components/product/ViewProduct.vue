@@ -29,7 +29,7 @@
         <table class="table table-condensed table-hover">
           <thead>
             <tr>
-              <th>Categorias</th>
+              <th>Categoria</th>
               <th>Nombre</th>
               <th>Detalles</th>
               <th>Editar</th>
